@@ -1,1 +1,0 @@
-console.log("Your Javascript is connected.")
